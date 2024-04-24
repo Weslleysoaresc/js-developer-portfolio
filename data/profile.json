@@ -71,12 +71,17 @@
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/Weslleysoaresc/js-developer-pokedex",
       "github": true
     },
     {
       "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "url": "https://github.com/Weslleysoaresc/js-developer-portfolio",
+      "github": true
+    },
+    {
+      "name": "landing page - Vendas de Ebook",
+      "url": "https://github.com/Weslleysoaresc/cuidadoralinjoy",
       "github": true
     }
   ],
